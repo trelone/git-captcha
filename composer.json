@@ -1,0 +1,23 @@
+{
+    "name": "t2a/captcha",
+    "type": "captcha",
+    "description": "Captcha Library",
+    "keywords": ["captcha", "spam", "bot"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vladimir Malov",
+            "email": "malov09@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "ext-gd": "*",
+        "ext-mbstring": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "CAPTCHA\\": "src"
+        }
+    }
+}
