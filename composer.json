@@ -17,9 +17,8 @@
     },
     "autoload": {
         "psr-4": {
-            "CAPTCHA\\": "src"
+            "Captcha\\": "src"
         }
     },
-    "minimum-stability": "dev",
     "prefer-stable": true
 }
