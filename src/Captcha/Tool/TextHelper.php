@@ -1,6 +1,6 @@
 <?php
 
-namespace T2A\Captcha\Tool;
+namespace CAPTCHA\Captcha\Tool;
 
 class TextHelper
 {

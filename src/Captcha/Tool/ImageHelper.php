@@ -1,8 +1,8 @@
 <?php
 
-namespace T2A\Captcha\Tool;
+namespace CAPTCHA\Captcha\Tool;
 
-use T2A\Captcha\Model\Color;
+use CAPTCHA\Captcha\Model\Color;
 
 class ImageHelper
 {

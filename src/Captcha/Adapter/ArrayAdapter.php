@@ -1,6 +1,6 @@
 <?php
 
-namespace T2A\Captcha\Adapter;
+namespace CAPTCHA\Captcha\Adapter;
 
 use Exception;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace T2A\Captcha;
+namespace CAPTCHA\Captcha;
 
 interface PhraseBuilderInterface
 {

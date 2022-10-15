@@ -5,13 +5,13 @@ ini_set('display_errors', 1);
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
-use T2A\Captcha\Adapter\ArrayAdapter;
-use T2A\Captcha\CaptchaBuilder;
-use T2A\Captcha\CaptchaStorage;
-use T2A\Captcha\Effect\LineEffect;
-use T2A\Captcha\PhraseBuilder;
-use T2A\Captcha\PhraseEffect\MaskPhraseEffect;
-use T2A\Captcha\Tool\ImageHelper;
+use CAPTCHA\Captcha\Adapter\ArrayAdapter;
+use CAPTCHA\Captcha\CaptchaBuilder;
+use CAPTCHA\Captcha\CaptchaStorage;
+use CAPTCHA\Captcha\Effect\LineEffect;
+use CAPTCHA\Captcha\PhraseBuilder;
+use CAPTCHA\Captcha\PhraseEffect\MaskPhraseEffect;
+use CAPTCHA\Captcha\Tool\ImageHelper;
 
 $phraseBuilder = new PhraseBuilder(6);
 

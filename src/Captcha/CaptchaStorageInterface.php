@@ -1,8 +1,8 @@
 <?php
 
-namespace T2A\Captcha;
+namespace CAPTCHA\Captcha;
 
-use T2A\Captcha\Adapter\AdapterInterface;
+use CAPTCHA\Captcha\Adapter\AdapterInterface;
 
 interface CaptchaStorageInterface
 {

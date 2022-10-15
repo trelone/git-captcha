@@ -5,12 +5,12 @@ ini_set('display_errors', 1);
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
-use T2A\Captcha\Adapter\MemcachedAdapter;
-use T2A\Captcha\CaptchaBuilder;
-use T2A\Captcha\CaptchaStorage;
-use T2A\Captcha\PhraseBuilder;
-use T2A\Captcha\PhraseEffect\LinePhraseEffect;
-use T2A\Captcha\Tool\ImageHelper;
+use CAPTCHA\Captcha\Adapter\MemcachedAdapter;
+use CAPTCHA\Captcha\CaptchaBuilder;
+use CAPTCHA\Captcha\CaptchaStorage;
+use CAPTCHA\Captcha\PhraseBuilder;
+use CAPTCHA\Captcha\PhraseEffect\LinePhraseEffect;
+use CAPTCHA\Captcha\Tool\ImageHelper;
 
 $phraseBuilder = new PhraseBuilder(6);
 

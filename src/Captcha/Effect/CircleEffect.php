@@ -1,10 +1,10 @@
 <?php
 
-namespace T2A\Captcha\Effect;
+namespace CAPTCHA\Captcha\Effect;
 
-use T2A\Captcha\Model\Color;
-use T2A\Captcha\Tool\ImageHelper;
-use T2A\Captcha\Tool\MathHelper;
+use CAPTCHA\Captcha\Model\Color;
+use CAPTCHA\Captcha\Tool\ImageHelper;
+use CAPTCHA\Captcha\Tool\MathHelper;
 
 class CircleEffect implements EffectInterface
 {

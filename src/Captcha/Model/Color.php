@@ -1,6 +1,6 @@
 <?php
 
-namespace T2A\Captcha\Model;
+namespace CAPTCHA\Captcha\Model;
 
 class Color
 {
