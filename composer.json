@@ -19,5 +19,7 @@
         "psr-4": {
             "CAPTCHA\\": "src"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
