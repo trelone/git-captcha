@@ -1,5 +1,5 @@
 {
-    "name": "t2a/captcha",
+    "name": "trelone/captcha",
     "type": "captcha",
     "description": "Captcha Library",
     "keywords": ["captcha", "spam", "bot"],
