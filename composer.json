@@ -20,6 +20,6 @@
             "CAPTCHA\\": "src"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "1.0.*",
     "prefer-stable": true
 }
