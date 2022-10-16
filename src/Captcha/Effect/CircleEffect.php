@@ -1,6 +1,6 @@
 <?php
 
-namespace TRL\CaptchaEffect;
+namespace TRL\Captcha\Effect;
 
 use TRL\Captcha\Model\Color;
 use TRL\Captcha\Tool\ImageHelper;

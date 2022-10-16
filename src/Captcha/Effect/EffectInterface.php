@@ -1,6 +1,6 @@
 <?php
 
-namespace TRL\CaptchaEffect;
+namespace TRL\Captcha\Effect;
 
 interface EffectInterface
 {
