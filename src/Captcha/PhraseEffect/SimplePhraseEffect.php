@@ -1,11 +1,11 @@
 <?php
 
-namespace CAPTCHA\Captcha\PhraseEffect;
+namespace TRELONE\Captcha\PhraseEffect;
 
-use CAPTCHA\Captcha\Model\Color;
-use CAPTCHA\Captcha\Tool\ImageHelper;
-use CAPTCHA\Captcha\Tool\MathHelper;
-use CAPTCHA\Captcha\Tool\TextHelper;
+use TRELONE\Captcha\Model\Color;
+use TRELONE\Captcha\Tool\ImageHelper;
+use TRELONE\Captcha\Tool\MathHelper;
+use TRELONE\Captcha\Tool\TextHelper;
 
 class SimplePhraseEffect implements PhraseEffectInterface
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace CAPTCHA\Captcha\Adapter;
+namespace TRELONE\Captcha\Adapter;
 
 interface AdapterInterface
 {

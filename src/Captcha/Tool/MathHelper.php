@@ -1,7 +1,7 @@
 <?php
 
 
-namespace CAPTCHA\Captcha\Tool;
+namespace TRELONE\Captcha\Tool;
 
 
 class MathHelper

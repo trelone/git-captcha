@@ -1,8 +1,8 @@
 <?php
 
-namespace CAPTCHA\Captcha;
+namespace TRELONE\Captcha;
 
-use CAPTCHA\Captcha\Adapter\AdapterInterface;
+use TRELONE\Captcha\Adapter\AdapterInterface;
 
 class CaptchaStorage implements CaptchaStorageInterface
 {

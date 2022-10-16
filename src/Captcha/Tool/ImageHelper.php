@@ -1,8 +1,8 @@
 <?php
 
-namespace CAPTCHA\Captcha\Tool;
+namespace TRELONE\Captcha\Tool;
 
-use CAPTCHA\Captcha\Model\Color;
+use TRELONE\Captcha\Model\Color;
 
 class ImageHelper
 {

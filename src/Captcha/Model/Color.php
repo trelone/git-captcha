@@ -1,6 +1,6 @@
 <?php
 
-namespace CAPTCHA\Captcha\Model;
+namespace TRELONE\Captcha\Model;
 
 class Color
 {

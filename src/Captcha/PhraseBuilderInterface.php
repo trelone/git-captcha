@@ -1,6 +1,6 @@
 <?php
 
-namespace CAPTCHA\Captcha;
+namespace TRELONE\Captcha;
 
 interface PhraseBuilderInterface
 {

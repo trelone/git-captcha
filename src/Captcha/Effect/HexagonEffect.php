@@ -1,10 +1,10 @@
 <?php
 
-namespace CAPTCHA\Captcha\Effect;
+namespace TRELONE\Captcha\Effect;
 
-use CAPTCHA\Captcha\Model\Color;
-use CAPTCHA\Captcha\Tool\ImageHelper;
-use CAPTCHA\Captcha\Tool\MathHelper;
+use TRELONE\Captcha\Model\Color;
+use TRELONE\Captcha\Tool\ImageHelper;
+use TRELONE\Captcha\Tool\MathHelper;
 
 class HexagonEffect implements EffectInterface
 {
