@@ -15,10 +15,12 @@
         "ext-gd": "*",
         "ext-mbstring": "*"
     },
+
     "autoload": {
-        "psr-4": {
-            "Captcha\\": "src"
-        }
+        "psr-4": {"Captcha\\": "src/Captcha"}
+    },
+    "autoload-dev": {
+        "psr-4": {"Monolog\\": "src/Captcha"}
     },
     "minimum-stability": "stable",
     "prefer-stable": true
