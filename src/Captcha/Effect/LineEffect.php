@@ -1,10 +1,10 @@
 <?php
 
-namespace Captcha\Effect;
+namespace TRL\Captcha\Effect;
 
-use Captcha\Model\Color;
-use Captcha\Tool\ImageHelper;
-use Captcha\Tool\MathHelper;
+use TRL\Captcha\Model\Color;
+use TRL\Captcha\Tool\ImageHelper;
+use TRL\Captcha\Tool\MathHelper;
 
 class LineEffect implements EffectInterface
 {

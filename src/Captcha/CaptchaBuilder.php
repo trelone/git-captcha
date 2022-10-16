@@ -1,11 +1,11 @@
 <?php
 
-namespace Captcha;
+namespace TRL\Captcha;
 
-use Captcha\Model\LayerStack;
-use Captcha\PhraseEffect\PhraseEffectInterface;
-use Captcha\PhraseEffect\SimplePhraseEffect;
-use Captcha\Tool\ImageHelper;
+use TRL\Captcha\Model\LayerStack;
+use TRL\Captcha\PhraseEffect\PhraseEffectInterface;
+use TRL\Captcha\PhraseEffect\SimplePhraseEffect;
+use TRL\Captcha\Tool\ImageHelper;
 
 class CaptchaBuilder implements CaptchaBuilderInterface
 {

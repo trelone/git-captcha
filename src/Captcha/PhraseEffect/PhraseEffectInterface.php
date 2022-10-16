@@ -1,6 +1,6 @@
 <?php
 
-namespace Captcha\PhraseEffect;
+namespace TRL\Captcha\PhraseEffect;
 
 interface PhraseEffectInterface
 {

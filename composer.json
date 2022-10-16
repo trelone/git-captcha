@@ -17,10 +17,10 @@
     },
 
     "autoload": {
-        "psr-4": {"TRL\\": "src/Captcha"}
+        "psr-4": {"TRL\\": "src"}
     },
     "autoload-dev": {
-        "psr-4": {"TRL\\": "src/Captcha"}
+        "psr-4": {"TRL\\": "src"}
     },
     "minimum-stability": "stable",
     "prefer-stable": true

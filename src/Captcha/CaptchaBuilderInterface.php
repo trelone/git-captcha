@@ -1,6 +1,6 @@
 <?php
 
-namespace Captcha;
+namespace TRL\Captcha;
 
 interface CaptchaBuilderInterface
 {

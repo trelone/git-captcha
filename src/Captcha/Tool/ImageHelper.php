@@ -1,8 +1,8 @@
 <?php
 
-namespace Captcha\Tool;
+namespace TRL\Captcha\Tool;
 
-use Captcha\Model\Color;
+use TRL\Captcha\Model\Color;
 
 class ImageHelper
 {

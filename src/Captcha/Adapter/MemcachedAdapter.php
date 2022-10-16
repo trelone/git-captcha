@@ -1,6 +1,6 @@
 <?php
 
-namespace Captcha\Adapter;
+namespace TRL\Captcha\Adapter;
 
 use Exception;
 use Memcached;
