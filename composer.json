@@ -20,7 +20,7 @@
         "psr-4": {"Captcha\\": "src/Captcha"}
     },
     "autoload-dev": {
-        "psr-4": {"Monolog\\": "src/Captcha"}
+        "psr-4": {"Captcha\\": "src/Captcha"}
     },
     "minimum-stability": "stable",
     "prefer-stable": true

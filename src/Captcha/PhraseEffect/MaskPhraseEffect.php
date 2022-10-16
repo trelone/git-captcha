@@ -1,12 +1,12 @@
 <?php
 
-namespace TRELONE\Captcha\PhraseEffect;
+namespace Captcha\PhraseEffect;
 
-use TRELONE\Captcha\Effect\EffectInterface;
-use TRELONE\Captcha\Model\Color;
-use TRELONE\Captcha\Tool\ImageHelper;
-use TRELONE\Captcha\Tool\MathHelper;
-use TRELONE\Captcha\Tool\TextHelper;
+use Captcha\Effect\EffectInterface;
+use Captcha\Model\Color;
+use Captcha\Tool\ImageHelper;
+use Captcha\Tool\MathHelper;
+use Captcha\Tool\TextHelper;
 
 class MaskPhraseEffect implements PhraseEffectInterface
 {

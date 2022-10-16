@@ -1,6 +1,6 @@
 <?php
 
-namespace TRELONE\Captcha\Adapter;
+namespace Captcha\Adapter;
 
 use Exception;
 use Memcached;

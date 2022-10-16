@@ -1,6 +1,6 @@
 <?php
 
-namespace TRELONE\Captcha\Model;
+namespace Captcha\Model;
 
 class LayerStack
 {

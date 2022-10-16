@@ -1,8 +1,8 @@
 <?php
 
-namespace TRELONE\Captcha;
+namespace Captcha;
 
-use TRELONE\Captcha\Tool\MathHelper;
+use Captcha\Tool\MathHelper;
 
 class PhraseBuilder implements PhraseBuilderInterface
 {

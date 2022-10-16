@@ -1,11 +1,11 @@
 <?php
 
-namespace TRELONE\Captcha;
+namespace Captcha;
 
-use TRELONE\Captcha\Model\LayerStack;
-use TRELONE\Captcha\PhraseEffect\PhraseEffectInterface;
-use TRELONE\Captcha\PhraseEffect\SimplePhraseEffect;
-use TRELONE\Captcha\Tool\ImageHelper;
+use Captcha\Model\LayerStack;
+use Captcha\PhraseEffect\PhraseEffectInterface;
+use Captcha\PhraseEffect\SimplePhraseEffect;
+use Captcha\Tool\ImageHelper;
 
 class CaptchaBuilder implements CaptchaBuilderInterface
 {

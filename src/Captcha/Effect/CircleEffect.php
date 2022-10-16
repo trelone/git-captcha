@@ -1,10 +1,10 @@
 <?php
 
-namespace TRELONE\Captcha\Effect;
+namespace Captcha\Effect;
 
-use TRELONE\Captcha\Model\Color;
-use TRELONE\Captcha\Tool\ImageHelper;
-use TRELONE\Captcha\Tool\MathHelper;
+use Captcha\Model\Color;
+use Captcha\Tool\ImageHelper;
+use Captcha\Tool\MathHelper;
 
 class CircleEffect implements EffectInterface
 {

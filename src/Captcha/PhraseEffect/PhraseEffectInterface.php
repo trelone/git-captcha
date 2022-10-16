@@ -1,6 +1,6 @@
 <?php
 
-namespace TRELONE\Captcha\PhraseEffect;
+namespace Captcha\PhraseEffect;
 
 interface PhraseEffectInterface
 {
